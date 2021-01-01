@@ -18,7 +18,6 @@ body {
 	background-color: #cfeafc;
 	border: 1px solid #0b6b98;
 	margin-top: 10px;
-	padding-bottom: 25px;
 	float: left;
 }
 #leftmenu2 {
@@ -26,7 +25,7 @@ body {
 	width: 225px;
 	background-color: #cfeafc;
 	border: 1px solid #0b6b98;
-	margin-top: 205px;
+	margin-top: 190px;
 	padding-bottom: 15px;
 }
 #leftmenu3 {
@@ -34,16 +33,16 @@ body {
 	width: 225px;
 	background-color: #cfeafc;
 	border: 1px solid #0b6b98;
-	margin-top: 390px;
-	padding-bottom: 40px;
+	margin-top: 350px;
+	padding-bottom: 10px;
 }
 #leftmenu4 {
 	position: absolute;
 	width: 225px;
 	background-color: #cfeafc;
 	border: 1px solid #0b6b98;
-	margin-top: 531px;
-	padding-bottom: 30px;
+	margin-top: 530px;
+	padding-bottom: 10px;
 }
 #leftmenu5 {
 	position: absolute;
@@ -106,6 +105,12 @@ a {
 	font-family: monospace;
 	font-weight: bold;
 	font-size: 18px;
+}
+#mainheading2 {
+	color: #0b6b98;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 15px;
 }
 #titleimg {
 	width: 200px;
